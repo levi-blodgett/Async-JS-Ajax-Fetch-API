@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "company": "123 Designs",
+    "phone": "444-555-6666"
+  },
+  {
+    "id": 2,
+    "name": "Jacob Walker",
+    "company": "Pernit Plumbing",
+    "phone": "444-560-4823"
+  },
+  {
+    "id": 3,
+    "name": "Holly Ferguson",
+    "company": "Original Staffing",
+    "phone": "444-222-1111"
+  }
+]
